@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("让我们来happy一下吧")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
