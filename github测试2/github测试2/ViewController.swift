@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
-        // 这是什么东东 来测一下 git log
+        // 这是什么东东 来测一下 git 
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
